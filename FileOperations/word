@@ -1,0 +1,6 @@
+In recent years, image deblurring has been widely investigated.
+In order to solve this ill-posed problem, a variety of prior models
+have been proposed successively. The two-tone prior has been successfully
+applied to text images deblurring and achieved significant results. However,
+the natural image with rich color clusters does not meet the two-tone prior,
+which requires only two color clusters in the image.

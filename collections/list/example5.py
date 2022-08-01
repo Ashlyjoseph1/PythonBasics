@@ -1,0 +1,10 @@
+lst=[]
+print(lst)
+lst.append(10)
+lst.append(34)
+lst.append('bigdata')
+lst.append('python')
+lst.extend([78,89,90])
+lst.insert(3,100)
+lst.insert(4,'bigdata')
+print(lst)
